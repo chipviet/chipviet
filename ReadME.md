@@ -20,13 +20,12 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Enouvo
-- 🌱 I’m currently learning Nestjs, Nextjs
+- 🔭 I’m currently working on SmartDev LLC
+- 🌱 I’m currently learning Spring Boot, React
 - 👯 I’m looking to collaborate on ReactJs
 - 🤔 I’m looking for help with AWS 
 - 💬 Ask me about anything
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I'm shyn
+- ⚡ Fun fact: I'm Chip Viet
 -->
 
 
